@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "name": "ProjectManagementTool",
+      "description": "A tool to manage and track project progress.",
+      "technologies": [
+        "Vue.js",
+        "Django",
+        "PostgreSQL"
+      ],
+      "authors": [
+        "Eve Black",
+        "Frank Gray"
+      ],
+      "category": "Productivity",
+      "id": "8ab9"
+    },
+    {
+      "name": "OnlineLearningPlatform",
+      "description": "A platform for online courses and learning.",
+      "technologies": [
+        "Next.js",
+        "GraphQL",
+        "Apollo"
+      ],
+      "authors": [
+        "Grace Adams",
+        "Henry Bell"
+      ],
+      "category": "Education",
+      "id": "80b2"
+    },
+    {
+      "name": "TravelBookingSystem",
+      "description": "A system for booking travel and accommodation.",
+      "technologies": [
+        "Ruby on Rails",
+        "React Native",
+        "SQLite"
+      ],
+      "authors": [
+        "Ivy Clark",
+        "Jack Davis"
+      ],
+      "category": "Travel",
+      "id": "fa79"
+    }
+  ]
+}
