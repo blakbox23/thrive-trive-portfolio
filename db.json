@@ -1,21 +1,6 @@
 {
   "projects": [
     {
-      "name": "ProjectManagementTool",
-      "description": "A tool to manage and track project progress.",
-      "technologies": [
-        "Vue.js",
-        "Django",
-        "PostgreSQL"
-      ],
-      "authors": [
-        "Eve Black",
-        "Frank Gray"
-      ],
-      "category": "Productivity",
-      "id": "8ab9"
-    },
-    {
       "name": "OnlineLearningPlatform",
       "description": "A platform for online courses and learning.",
       "technologies": [
@@ -44,6 +29,30 @@
       ],
       "category": "Travel",
       "id": "fa79"
+    },
+    {
+      "id": "45f1",
+      "name": "Twitterbott",
+      "description": "some description",
+      "category": "education"
+    },
+    {
+      "id": "bd5b",
+      "name": "Twitterbott",
+      "description": "dwsw",
+      "category": ""
+    },
+    {
+      "id": "e6e5",
+      "name": "Twitterbott",
+      "description": "dwsw",
+      "category": ""
+    },
+    {
+      "id": "1257",
+      "name": "Twitterbott",
+      "description": "dwsw",
+      "category": "education"
     }
   ]
 }

@@ -60,3 +60,15 @@ h1 {
   margin: auto;
 }
 
+.form-section{
+  margin: 8rem;
+}
+
+.form-section form {
+  display: flex;
+  flex-direction: column;
+}
+
+input, select{
+  margin: 1rem 0;
+}
